@@ -7,8 +7,13 @@
 
 **Faugei** is a modern and responsive flower shop website designed to showcase a wide range of fresh flowers and plants. It offers users a smooth browsing experience to explore floral collections, seasonal deals, and helpful plant care information.
 
-![Homepage Preview](assets/hero.png)
+---
 
+## 🌐 Live Preview & Interface
+
+👉 [Click here to visit the website](https://ifthedev.github.io/b12-assignment-02/)
+
+![Homepage Preview](assets/hero.png)
 
 ---
 
@@ -24,15 +29,10 @@
 
 ## 🛠️ Technologies Used
 
+```
 - HTML  
 - CSS
 - Tailwind CSS
 - Google Fonts CDN  
 - Font Awesome Icons CDN
-
----
-
-## 🌐 Live Website
-
-👉 [Click here to visit the website](https://ifthe16.github.io/b12-assignment-02/)
-
+```
